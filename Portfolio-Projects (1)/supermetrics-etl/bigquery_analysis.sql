@@ -1,1 +1,0 @@
-// Placeholder for bigquery_analysis.sql
